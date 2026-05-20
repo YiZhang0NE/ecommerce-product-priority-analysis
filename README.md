@@ -20,7 +20,8 @@
 本项目使用 京东数据科学竞赛数据集，数据来源于和鲸Heywhale社区：
 数据链接https://www.heywhale.com/mw/dataset/6628eb6b615a61f459767639/content?utm_source=chatgpt.com
 由于该数据集为脱敏数据，店铺、商品、用户均以 ID 形式表示，因此本项目使用 shop_id、sku_id 等字段进行分析，不涉及真实店铺名和商品名。
-本次分析非全量分析，取特定商家进行分析
+
+本次分析非全量分析，只取特定商家进行分析
 
 
 ## 4. 分析思路
